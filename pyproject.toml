@@ -5,7 +5,7 @@ description = ""
 authors = ["Emiliy Feldman <feldlime@yandex.ru>"]
 maintainers = ["Emiliy Feldman <feldlime@yandex.ru>"]
 readme = "README.md"
-packages = [˝
+packages = [
     { include = "service" }
 ]
 
